@@ -11,7 +11,8 @@
 
 ## Github activty stats 
 
-[![Your's github activity graph](https://activity-graph.herokuapp.com/graph?username=your_username&theme=react-dark)](https://github.com/your_username/github-readme-activity-graph)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dracolai&theme=github)
+
 
 ## Github stats
 
