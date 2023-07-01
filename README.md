@@ -1,15 +1,4 @@
-# 🇫🇷 Bonjour, je suis Valente Antonin 
-
-##☢ Je suis un aspirant docteur en physique travaillant pour la collaboration INDRA-FAZIA ⚛ !
-
-- 🔭 Je travaille actuellement sur une analyse de détecteur, une simulation et un modèle de perte en énergie pour les ions dans les matériaux.
-- 🌱 J'apprends actuellement le langage de programmation Mojo 🔥
-- 📚 Mes compétences en programmation incluent `Python`, `reveal.js`
-- 🧪 Je suis un expert en librairies Python telles que `Numpy`, `Scipy`, `Scikit-learn`, `Pandas` et `Networkx`
-- 💡 Passionné par les maths
-- 📫 Comment me joindre: valente@lpccaen.in2p3.fr
-
-# 🇺🇸 Hello, I'm Valente Antonin 
+# 🇫🇷 Hello, I'm Valente Antonin 
 
 ## ☢ I'm a PhD student Physicist working for the INDRA-FAZIA collaboration ⚛ !
 
@@ -20,6 +9,13 @@
 - 💡 Passionate about math
 - 📫 How to reach me: valente@lpccaen.in2p3.fr
   
-## Mes statistiques Github
+## Github stats
 
-[![Les statistiques de Github de VotreNom](https://github-readme-stats.vercel.app/api?username=Dracolai&show_icons=true&theme=radical)](https://github.com/votre_nom_utilisateur/github-readme-stats)
+[![Les statistiques de Github de Dracolai](https://github-readme-stats.vercel.app/api?username=Dracolai&show_icons=true&theme=radical)](https://github.com/votre_nom_utilisateur/github-readme-stats)
+
+## Top Langs stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dracolai&layout=compact&theme=radical)](https://github.com/your_username/github-readme-stats)
+
+## GitHub Streak stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=radical)](https://github.com/your_username/github-readme-streak-stats)
