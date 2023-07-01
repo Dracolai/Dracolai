@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a detector analysis, a simulation and a model for ions energy-loss in materials.
 - 🌱 I’m currently learning `Mojo 🔥` programming language
 - 📚 My programming skills include `Python 🐍`, `reveal.js`
-- 🧪 I'm proficient with Python libraries such as `NumPy`, `SciPy`, `Scikit-learn`, `Pandas`, and `Networkx`
+- 🧪 I'm proficient with `Python 🐍` libraries such as `NumPy`, `SciPy`, `Scikit-learn`, `Pandas`, and `Networkx`
 - 💡 Passionate about math
 - 📫 How to reach me: valente@lpccaen.in2p3.fr
   
