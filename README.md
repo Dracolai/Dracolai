@@ -11,7 +11,7 @@
 
 ## Github activty stats 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dracolai&theme=github)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dracolai&theme=dracula)](https://github.com/Dracolai/github-readme-activity-graph)
 
 
 ## Github stats
