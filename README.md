@@ -16,11 +16,11 @@
 
 ## Github stats
 
-[![Les statistiques de Github de Dracolai](https://github-readme-stats.vercel.app/api?username=Dracolai&show_icons=true&theme=radical)](https://github.com/votre_nom_utilisateur/github-readme-stats)
+[![Les statistiques de Github de Dracolai](https://github-readme-stats.vercel.app/api?username=Dracolai&show_icons=true&theme=github-compact)](https://github.com/votre_nom_utilisateur/github-readme-stats)
 
 ## Top Langs stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dracolai&layout=compact&theme=radical)](https://github.com/your_username/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dracolai&layout=compact&theme=github-compact)](https://github.com/your_username/github-readme-stats)
 
 ## GitHub Streak stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=radical)](https://github.com/your_username/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=github-compact)](https://github.com/Dracolai/github-readme-streak-stats)
