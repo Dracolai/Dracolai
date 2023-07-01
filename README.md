@@ -8,7 +8,11 @@
 - 🧪 I'm proficient with `Python 🐍` libraries such as `NumPy`, `SciPy`, `Scikit-learn`, `Pandas`, and `Networkx`
 - 💡 Passionate about math
 - 📫 How to reach me: valente@lpccaen.in2p3.fr
-  
+
+## Github activty stats 
+
+[![Your's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dracolai&theme=react-dark)](https://github.com/your_username/github-readme-activity-graph)
+
 ## Github stats
 
 [![Les statistiques de Github de Dracolai](https://github-readme-stats.vercel.app/api?username=Dracolai&show_icons=true&theme=radical)](https://github.com/votre_nom_utilisateur/github-readme-stats)
