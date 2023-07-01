@@ -1,6 +1,6 @@
 # 🇫🇷 Hello, I'm Valente Antonin 
 
-## ☢ I'm a PhD student Physicist working for the INDRA-FAZIA collaboration ⚛ !
+## ☢ I'm a PhD student Physicist working for the INDRA-FAZIA collaboration ⚛ 
 
 - 🔭 I’m currently working on a detector analysis, a simulation and a model for ions energy-loss in materials.
 - 🌱 I’m currently learning `Mojo 🔥` programming language
